@@ -1,0 +1,92 @@
+*{
+    font-family: 'Press Start 2P', 'VT323', 'Share Tech Mono', 'Courier New', monospace;
+
+}
+.contenedor{
+    border-style: groove;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 400px;  
+    text-align: center;
+    background-color: #E0E0E0;
+}
+body{
+    background-color: #FFCC00;
+}
+h1{
+    color: #FF5555;
+    margin-bottom: 20px;
+}
+
+.box-pokemon{
+    border-style: groove;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+    height: 35em;
+}
+.box-pokemon img{
+    height: 15em;
+    width: 15em;
+    display: block;
+    margin: 0 auto;
+    border-style: inherit;
+    border-radius: inherit;
+}
+.box-pokemon-abilities{
+    border-style: groove;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+.noticias{
+    border-style: groove;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #E0E0E0;
+}
+.noticias img{
+    width: 100%;
+    border-style: inherit;
+    border-radius: inherit;
+}
+header{
+    border-style: outset;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+header img{
+    display: block;
+    float: left;
+    width: 5em;
+    margin: 0 auto;
+}
+header nav{
+    float: left;
+    margin-left: 1em;
+    display: flex;
+    gap: 1em;
+    align-items: center;
+    height: 100%;
+    margin-top: 3em;
+}
+footer{
+    background-color: #FFCC00;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.contenedor-nosotros{
+    border-style: groove;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    height: auto;  
+    text-align: center;
+    background-color: #E0E0E0;
+}
